@@ -1,0 +1,18 @@
+primitive data types - 
+includes 
+byte 
+ short 
+  int 
+   long 
+    float 
+     double 
+      boolean
+       char
+
+
+
+
+Non-primitive data types - such as 
+String
+Arrays 
+and Classes
